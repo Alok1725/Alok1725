@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Alok Singh Kushwaha.
+- 👀 I’m interested in development related options.
+- 🌱 I’m currently learning C++ DSA and Js, Php
+- 📫 How to reach me https://www.linkedin.com/in/alok-singh-kushwaha-64038a214/ or ig handle-> a.l.o.k_1.7
+- 😄 Pronouns: He/Him
